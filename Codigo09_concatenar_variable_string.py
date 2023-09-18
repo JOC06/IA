@@ -1,0 +1,2 @@
+M1 = "INTELIGENCIA "
+print(M1 + "ARTIFICIAL")
